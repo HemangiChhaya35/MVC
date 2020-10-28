@@ -12,6 +12,10 @@ namespace MVCwebsite.Controllers
         {
             return View();
         }
+        public ActionResult Index22()
+        {
+            return View();
+        }
         public ActionResult Extra()
         {
             return View();
